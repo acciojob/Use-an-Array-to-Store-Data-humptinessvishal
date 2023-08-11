@@ -1,1 +1,1 @@
-let yourArray = ["Abc",26,true,25,98]
+let yourarray =["string",25,true,'string',false];
